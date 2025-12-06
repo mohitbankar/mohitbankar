@@ -1,6 +1,6 @@
 
 #  About Me:
-Interested in low-level programming and understanding systems architecture.
+Interested in low-level programming.
 <p align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExazQ2Y3FueTEwZmxpdDZnenlzcGR5MjZrcWZyYTAya2JheWNsb29mbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" />
 </p>
